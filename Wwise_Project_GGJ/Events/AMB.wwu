@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BC380DC9-E98A-4A7B-9C7C-3E4B904408D3}" SchemaVersion="110" RootDocumentID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" ParentDocumentID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}">
+	<Events>
+		<WorkUnit Name="AMB" ID="{BC380DC9-E98A-4A7B-9C7C-3E4B904408D3}" OwnerID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" PersistMode="Nested">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="10"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
+			<ChildrenList>
+				<Event Name="Play_Main_Ambiance" ID="{BA37AEAC-9666-4B89-9AAD-87C7179FD90B}">
+					<ChildrenList>
+						<Action Name="" ID="{A15A8A79-B14A-4E2D-889B-7C2D4D263C04}" ShortID="602866478">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_Distant_Cry" ID="{F47775CC-A7DC-47E1-A8F3-82B0286FE01D}" WorkUnitID="{0B1204BD-9186-4247-9A0D-A7002AA3555B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{FD318CFC-32F4-4577-8A11-E9F7E450AA0C}" ShortID="401313775">
+							<PropertyList>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Drone" ID="{36E1F9A3-D30E-4A39-8458-F00A49615DD7}" WorkUnitID="{0B1204BD-9186-4247-9A0D-A7002AA3555B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Main_Ambiance" ID="{183C9EBE-2822-4CB0-8DCF-E3B486288070}">
+					<ChildrenList>
+						<Action Name="" ID="{C632B8B7-3E30-4A27-AA65-EE0CF41F7D7E}" ShortID="678572789">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_Distant_Cry" ID="{F47775CC-A7DC-47E1-A8F3-82B0286FE01D}" WorkUnitID="{0B1204BD-9186-4247-9A0D-A7002AA3555B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{49022CFF-086B-4D2C-80BC-E0F4F8841F5B}" ShortID="1022750272">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Drone" ID="{36E1F9A3-D30E-4A39-8458-F00A49615DD7}" WorkUnitID="{0B1204BD-9186-4247-9A0D-A7002AA3555B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

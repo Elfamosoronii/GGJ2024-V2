@@ -10,10 +10,51 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AuxBus Name="SFX" ID="{D814A79D-B6C4-4F84-BC16-314EBF31D165}"/>
 						<Bus Name="Ambiance" ID="{FD0F6CF2-CBE2-4598-A31D-C859BD3691B5}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="10"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Bus Name="Drone" ID="{8CC6FDAD-E5D7-4862-8299-85F2E031E3D1}"/>
+								<Bus Name="Voice" ID="{8C59896C-47F3-40D6-A60F-056EFEF2F36E}"/>
+								<AuxBus Name="REV_AMB" ID="{AB3AFE83-FAE2-4E32-A1F9-2717BAD7897F}">
+									<PropertyList>
+										<Property Name="BusVolume" Type="Real64">
+											<ValueList>
+												<Value>-1</Value>
+											</ValueList>
+										</Property>
+										<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+											<ObjectRef Name="Space_Dreaming" ID="{4FF7C4B2-37B0-4DFF-8E8A-1420102AE2DD}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+										</Reference>
+									</ReferenceList>
+								</AuxBus>
+							</ChildrenList>
+						</Bus>
+						<Bus Name="MC" ID="{52DA0FF4-1BF8-43CB-9733-E54994FFDA4F}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="16"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Bus Name="FT" ID="{1EAA77CE-6B86-40EC-B0FC-EE607E85DB6B}"/>
+								<Bus Name="Cloth" ID="{2E16E0F2-38BF-49ED-A779-ABD98CAFB5B2}"/>
+								<Bus Name="Grab" ID="{1D87645D-6B34-488B-9DC9-54B7BD3C4B6C}"/>
+							</ChildrenList>
+						</Bus>
+						<Bus Name="NPC" ID="{60BF65FB-6EC9-44C9-BDFD-A23B8C25206C}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Bus>
+						<Bus Name="SFX" ID="{45D18655-8AA0-43C9-B4A8-158FB4777929}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="19"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
 						</Bus>

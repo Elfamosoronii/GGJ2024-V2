@@ -3,8 +3,17 @@
 	<SoundBanks>
 		<WorkUnit Name="Default Work Unit" ID="{29FB1877-A17C-4287-BE31-26653827512F}" PersistMode="Standalone">
 			<ChildrenList>
-				<SoundBank Name="New_SoundBank" ID="{E69E59C3-8CBF-48E9-8D61-4121161DB95D}">
-					<ObjectInclusionList/>
+				<SoundBank Name="Game_SB" ID="{E69E59C3-8CBF-48E9-8D61-4121161DB95D}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="13"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ObjectInclusionList>
+						<ObjectRef Name="NPC" ID="{C46F9480-4D07-42C0-9E84-E2888AC9BE42}" WorkUnitID="{C46F9480-4D07-42C0-9E84-E2888AC9BE42}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SFX" ID="{8A5A1C57-CC2B-4824-9EA3-9B89391228CA}" WorkUnitID="{8A5A1C57-CC2B-4824-9EA3-9B89391228CA}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="AMB" ID="{BC380DC9-E98A-4A7B-9C7C-3E4B904408D3}" WorkUnitID="{BC380DC9-E98A-4A7B-9C7C-3E4B904408D3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MC" ID="{4D2CD1F2-55AB-4AA0-947B-3256A46FB037}" WorkUnitID="{4D2CD1F2-55AB-4AA0-947B-3256A46FB037}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>

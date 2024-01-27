@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8A5A1C57-CC2B-4824-9EA3-9B89391228CA}" SchemaVersion="110" RootDocumentID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" ParentDocumentID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}">
+	<Events>
+		<WorkUnit Name="SFX" ID="{8A5A1C57-CC2B-4824-9EA3-9B89391228CA}" OwnerID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" PersistMode="Nested">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="19"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
+			<ChildrenList>
+				<Event Name="Play_SFX_Object_NearYou" ID="{C29EC661-AE72-4D0C-A605-98CAD9AD26B2}">
+					<ChildrenList>
+						<Action Name="" ID="{C38BBCC8-4E3B-495C-9134-E7DA6E7AA901}" ShortID="641509085">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="36"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+								<Property Name="SeekPercent" Type="Real64" Value="80">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{4327B0C0-B1DE-45DF-BE09-4C2E10F34BE0}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Min" Type="Real64" Value="-100"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SFX_Object_NearYou" ID="{7F85A3C5-8ACC-4223-A630-1245B30B95CB}" WorkUnitID="{54EECDD9-C549-4D0B-8305-F3945EFDCD28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{1AC17B1B-1BD6-4E2A-BA83-41B5F388A41B}" ShortID="950365814">
+							<PropertyList>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SFX_Object_NearYou" ID="{7F85A3C5-8ACC-4223-A630-1245B30B95CB}" WorkUnitID="{54EECDD9-C549-4D0B-8305-F3945EFDCD28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_SFX_Object_Founded" ID="{E5427312-953F-4866-9AC1-24C9F50EA292}">
+					<ChildrenList>
+						<Action Name="" ID="{29070722-D27E-4A9A-BC17-423BD4444135}" ShortID="260837243">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SFX_Object_Founded" ID="{AC83130E-7012-4758-BB60-0A3BDFE41069}" WorkUnitID="{54EECDD9-C549-4D0B-8305-F3945EFDCD28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_SFX_Object_NearYou" ID="{4CA48557-9BDE-4314-BF62-8BCB2EE6C6C0}">
+					<ChildrenList>
+						<Action Name="" ID="{A5CD50A0-CF4B-4F32-ADCE-A30CE8DD16E0}" ShortID="1066324256">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SFX_Object_NearYou" ID="{7F85A3C5-8ACC-4223-A630-1245B30B95CB}" WorkUnitID="{54EECDD9-C549-4D0B-8305-F3945EFDCD28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

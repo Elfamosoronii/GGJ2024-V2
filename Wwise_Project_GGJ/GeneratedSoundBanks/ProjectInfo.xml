@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="Game JAM" GUID="{4C75F733-EF3E-40F1-9744-D89C5EE71EC1}" Generator="2022.1.5.8242"/>
+	<CacheRoot>../.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Windows" GUID="{60EFFBFD-19D0-4217-BB15-AF4059FABEAE}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{1660F6B1-9E8A-42BB-B934-6EB83CB0F10B}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{089D2381-081C-D6E4-D270-859C0F218FD3}</FileHash>
+</ProjectInfo>

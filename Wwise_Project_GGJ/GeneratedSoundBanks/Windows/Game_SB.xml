@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="145">
+	<SoundBanks>
+		<SoundBank Id="2151891189" Type="User" GUID="{E69E59C3-8CBF-48E9-8D61-4121161DB95D}" Language="SFX" Hash="{36CA799E-8001-7386-2F08-8793A68F2C37}">
+			<ObjectPath>\SoundBanks\Default Work Unit\Game_SB</ObjectPath>
+			<ShortName>Game_SB</ShortName>
+			<Path>Game_SB.bnk</Path>
+			<Media>
+				<File Id="25492890" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Cry_03.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Cry_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="47623735" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Cloth_Movement_06.wav</ShortName>
+					<CachePath>SFX/MC_Cloth_Movement_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="48469247" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_12.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_12_10C4C929.wem</CachePath>
+				</File>
+				<File Id="99442007" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Grab_01..wav</ShortName>
+					<CachePath>SFX/MC_Grab_01._10C4C929.wem</CachePath>
+				</File>
+				<File Id="103943513" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Scream_06.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Scream_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="109493910" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_06.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="127696096" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Cloth_Movement_05.wav</ShortName>
+					<CachePath>SFX/MC_Cloth_Movement_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="132210207" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Cry_01.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Cry_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="146476595" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SFX_Object_Founded.wav</ShortName>
+					<CachePath>SFX/SFX_Object_Founded_10C4C929.wem</CachePath>
+				</File>
+				<File Id="151578874" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>NPC_LAUGH.wav</ShortName>
+					<CachePath>SFX/NPC_LAUGH_10C4C929.wem</CachePath>
+				</File>
+				<File Id="238269691" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Cloth_Movement_03.wav</ShortName>
+					<CachePath>SFX/MC_Cloth_Movement_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="249002668" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Scream_03.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Scream_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="251583862" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Grab_02.wav</ShortName>
+					<CachePath>SFX/MC_Grab_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="317097530" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Cloth_Movement_10.wav</ShortName>
+					<CachePath>SFX/MC_Cloth_Movement_10_10C4C929.wem</CachePath>
+				</File>
+				<File Id="318291833" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_01.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="320399697" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_04.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="329206138" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Grab_05.wav</ShortName>
+					<CachePath>SFX/MC_Grab_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="331433389" Language="SFX" Streaming="true" Location="Loose">
+					<ShortName>SFX_Object_NearYou.wav</ShortName>
+					<Path>Media/331433389.wem</Path>
+					<CachePath>SFX/SFX_Object_NearYou_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="385140390" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_09.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_09_10C4C929.wem</CachePath>
+				</File>
+				<File Id="439576151" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Vo_Die-001.wav</ShortName>
+					<CachePath>SFX/MC_Vo_Die-001_10C4C929.wem</CachePath>
+				</File>
+				<File Id="442899724" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_07.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_07_10C4C929.wem</CachePath>
+				</File>
+				<File Id="449076271" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Scream_02.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Scream_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="500423147" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Cloth_Movement_01.wav</ShortName>
+					<CachePath>SFX/MC_Cloth_Movement_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="522126974" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_03.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="527882518" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Drone.wav</ShortName>
+					<CachePath>SFX/Drone_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="549371856" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Cloth_Movement_08.wav</ShortName>
+					<CachePath>SFX/MC_Cloth_Movement_08_10C4C929.wem</CachePath>
+				</File>
+				<File Id="598482440" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_08.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_08_10C4C929.wem</CachePath>
+				</File>
+				<File Id="627809040" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Cry_02.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Cry_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="631097772" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Scream_04.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Scream_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="632463488" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Cloth_Movement_09.wav</ShortName>
+					<CachePath>SFX/MC_Cloth_Movement_09_10C4C929.wem</CachePath>
+				</File>
+				<File Id="688429726" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_02.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="695329697" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Scream_01.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Scream_01_10C4C929.wem</CachePath>
+				</File>
+				<File Id="703376735" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Cloth_Movement_07.wav</ShortName>
+					<CachePath>SFX/MC_Cloth_Movement_07_10C4C929.wem</CachePath>
+				</File>
+				<File Id="732608624" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Grab_04.wav</ShortName>
+					<CachePath>SFX/MC_Grab_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="748019156" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Scream_07.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Scream_07_10C4C929.wem</CachePath>
+				</File>
+				<File Id="812292401" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Scream_05.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Scream_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="834685696" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_05.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_05_10C4C929.wem</CachePath>
+				</File>
+				<File Id="848435519" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_11.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_11_10C4C929.wem</CachePath>
+				</File>
+				<File Id="858110635" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Cloth_Movement_04.wav</ShortName>
+					<CachePath>SFX/MC_Cloth_Movement_04_10C4C929.wem</CachePath>
+				</File>
+				<File Id="984292458" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Cloth_Movement_02.wav</ShortName>
+					<CachePath>SFX/MC_Cloth_Movement_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1048291974" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>AMB_Distant_Scream_08.wav</ShortName>
+					<CachePath>SFX/AMB_Distant_Scream_08_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1063141180" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Grab_03.wav</ShortName>
+					<CachePath>SFX/MC_Grab_03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1064701850" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MC_Footstep_Concret_10.wav</ShortName>
+					<CachePath>SFX/MC_Footstep_Concret_10_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2029761780" Name="Play_Main_Ambiance" ObjectPath="\Events\Default Work Unit\AMB\Play_Main_Ambiance" GUID="{BA37AEAC-9666-4B89-9AAD-87C7179FD90B}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="25492890"/>
+						<MediaRef Id="103943513"/>
+						<MediaRef Id="132210207"/>
+						<MediaRef Id="249002668"/>
+						<MediaRef Id="449076271"/>
+						<MediaRef Id="527882518"/>
+						<MediaRef Id="627809040"/>
+						<MediaRef Id="631097772"/>
+						<MediaRef Id="695329697"/>
+						<MediaRef Id="748019156"/>
+						<MediaRef Id="812292401"/>
+						<MediaRef Id="1048291974"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="687214377" Name="REV_AMB" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambiance\REV_AMB" GUID="{AB3AFE83-FAE2-4E32-A1F9-2717BAD7897F}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1201778153" Name="Play_MC_Die" ObjectPath="\Events\Default Work Unit\MC\Play_MC_Die" GUID="{18E0E2BE-41AE-44E8-A916-A7D0B3F75BDB}" DurationType="OneShot" DurationMin="4.525578" DurationMax="4.525578">
+					<MediaRefs>
+						<MediaRef Id="439576151"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1759907691" Name="Play_MC_Footstep" ObjectPath="\Events\Default Work Unit\MC\Play_MC_Footstep" GUID="{D4A66995-D69D-416E-9142-DA2C4658AE8A}" DurationType="OneShot" DurationMin="0.42744115" DurationMax="1.1471941">
+					<MediaRefs>
+						<MediaRef Id="47623735"/>
+						<MediaRef Id="48469247"/>
+						<MediaRef Id="109493910"/>
+						<MediaRef Id="127696096"/>
+						<MediaRef Id="238269691"/>
+						<MediaRef Id="317097530"/>
+						<MediaRef Id="318291833"/>
+						<MediaRef Id="320399697"/>
+						<MediaRef Id="385140390"/>
+						<MediaRef Id="442899724"/>
+						<MediaRef Id="500423147"/>
+						<MediaRef Id="522126974"/>
+						<MediaRef Id="549371856"/>
+						<MediaRef Id="598482440"/>
+						<MediaRef Id="632463488"/>
+						<MediaRef Id="688429726"/>
+						<MediaRef Id="703376735"/>
+						<MediaRef Id="834685696"/>
+						<MediaRef Id="848435519"/>
+						<MediaRef Id="858110635"/>
+						<MediaRef Id="984292458"/>
+						<MediaRef Id="1064701850"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1954933515" Name="Play_MC_Grab" ObjectPath="\Events\Default Work Unit\MC\Play_MC_Grab" GUID="{B9C2C5FA-2BB3-4E85-B521-12176E0585CF}" DurationType="OneShot" DurationMin="0.2" DurationMax="0.33333334">
+					<MediaRefs>
+						<MediaRef Id="99442007"/>
+						<MediaRef Id="251583862"/>
+						<MediaRef Id="329206138"/>
+						<MediaRef Id="732608624"/>
+						<MediaRef Id="1063141180"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2926507265" Name="Play_NPC_Laugh" ObjectPath="\Events\Default Work Unit\NPC\Play_NPC_Laugh" GUID="{8BFDCC8E-5896-4689-B124-EF440B0011C8}" DurationType="OneShot" DurationMin="3.1823583" DurationMax="3.1823583">
+					<MediaRefs>
+						<MediaRef Id="151578874"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3433653717" Name="Play_SFX_Object_Founded" ObjectPath="\Events\Default Work Unit\SFX\Play_SFX_Object_Founded" GUID="{E5427312-953F-4866-9AC1-24C9F50EA292}" DurationType="OneShot" DurationMin="10" DurationMax="10">
+					<MediaRefs>
+						<MediaRef Id="146476595"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4278079733" Name="Play_SFX_Object_NearYou" ObjectPath="\Events\Default Work Unit\SFX\Play_SFX_Object_NearYou" GUID="{C29EC661-AE72-4D0C-A605-98CAD9AD26B2}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="331433389"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="55798402" Name="Stop_Main_Ambiance" ObjectPath="\Events\Default Work Unit\AMB\Stop_Main_Ambiance" GUID="{183C9EBE-2822-4CB0-8DCF-E3B486288070}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="4066943759" Name="Stop_SFX_Object_NearYou" ObjectPath="\Events\Default Work Unit\SFX\Stop_SFX_Object_NearYou" GUID="{4CA48557-9BDE-4314-BF62-8BCB2EE6C6C0}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{D57B2799-2292-8CD0-30F0-2730097F3A2A}</FileHash>
+</SoundBanksInfo>
