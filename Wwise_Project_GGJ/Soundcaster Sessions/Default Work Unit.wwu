@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EDB10A21-42DA-40F8-9644-9CC28C76FEC3}" SchemaVersion="110">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{EDB10A21-42DA-40F8-9644-9CC28C76FEC3}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{E3F1797E-3179-4C6C-BBF2-5AB67519C4A6}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="AMbiance_General" ID="{BA37AEAC-9666-4B89-9AAD-87C7179FD90B}" WorkUnitID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Open" ID="{BEEA2B8D-EB9A-44AA-A5BB-F34A2683898A}" WorkUnitID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Menu_Close" ID="{9030FDE5-6622-4D48-8F0D-2C7F976C9F75}" WorkUnitID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

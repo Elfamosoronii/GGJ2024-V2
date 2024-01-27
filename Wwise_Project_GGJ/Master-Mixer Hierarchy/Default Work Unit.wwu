@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{74637C57-809A-422C-96D4-723DBA55311B}" SchemaVersion="110">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{74637C57-809A-422C-96D4-723DBA55311B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{B670635A-1382-4D9E-9CB8-103A3018163D}" WorkUnitID="{F1856A9C-6FD1-4857-8A48-9AA675488AD4}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AuxBus Name="SFX" ID="{D814A79D-B6C4-4F84-BC16-314EBF31D165}"/>
+						<Bus Name="Ambiance" ID="{FD0F6CF2-CBE2-4598-A31D-C859BD3691B5}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="10"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Bus>
+					</ChildrenList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>
