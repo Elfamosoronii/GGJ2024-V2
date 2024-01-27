@@ -3,24 +3,6 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="AMbiance_General" ID="{BA37AEAC-9666-4B89-9AAD-87C7179FD90B}">
-					<ChildrenList>
-						<Action Name="" ID="{FD318CFC-32F4-4577-8A11-E9F7E450AA0C}" ShortID="401313775">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Drone" ID="{36E1F9A3-D30E-4A39-8458-F00A49615DD7}" WorkUnitID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-						<Action Name="" ID="{A15A8A79-B14A-4E2D-889B-7C2D4D263C04}" ShortID="602866478">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="New Random Container" ID="{F47775CC-A7DC-47E1-A8F3-82B0286FE01D}" WorkUnitID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Event Name="Menu_Open" ID="{BEEA2B8D-EB9A-44AA-A5BB-F34A2683898A}">
 					<ChildrenList>
 						<Action Name="" ID="{387D653B-82C3-4D0F-B797-F3B2DF67C866}" ShortID="810594949">
@@ -51,6 +33,10 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<WorkUnit Name="AMB" ID="{BC380DC9-E98A-4A7B-9C7C-3E4B904408D3}" PersistMode="Reference"/>
+				<WorkUnit Name="MC" ID="{4D2CD1F2-55AB-4AA0-947B-3256A46FB037}" PersistMode="Reference"/>
+				<WorkUnit Name="NPC" ID="{C46F9480-4D07-42C0-9E84-E2888AC9BE42}" PersistMode="Reference"/>
+				<WorkUnit Name="SFX" ID="{8A5A1C57-CC2B-4824-9EA3-9B89391228CA}" PersistMode="Reference"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

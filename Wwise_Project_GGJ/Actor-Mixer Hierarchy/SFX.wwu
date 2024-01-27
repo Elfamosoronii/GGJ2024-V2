@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{54EECDD9-C549-4D0B-8305-F3945EFDCD28}" SchemaVersion="110" RootDocumentID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}" ParentDocumentID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}">
+	<AudioObjects>
+		<WorkUnit Name="SFX" ID="{54EECDD9-C549-4D0B-8305-F3945EFDCD28}" OwnerID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}" PersistMode="Nested">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="19"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
+			<ChildrenList>
+				<ActorMixer Name="SFX_AM" ID="{B5D6EA5C-8F4C-4513-90B6-6BEB9B0347FF}" ShortID="872497643">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{357AE3CE-76BC-4827-8D41-3BF84E43E73B}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{45D18655-8AA0-43C9-B4A8-158FB4777929}" WorkUnitID="{74637C57-809A-422C-96D4-723DBA55311B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Folder Name="OBJECT" ID="{A141ADEB-BD39-49DC-A5D1-54342D87EF0B}" ShortID="357452751">
+							<ChildrenList>
+								<Sound Name="SFX_Object_Founded" ID="{AC83130E-7012-4758-BB60-0A3BDFE41069}" ShortID="156277066">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-13</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{357AE3CE-76BC-4827-8D41-3BF84E43E73B}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{74637C57-809A-422C-96D4-723DBA55311B}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_Object_Founded" ID="{BBCC4848-6A51-4475-A406-7012DF0B0EA3}">
+											<Language>SFX</Language>
+											<AudioFile>SFX_Object_Founded.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="146476595"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_Object_Founded" ID="{BBCC4848-6A51-4475-A406-7012DF0B0EA3}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_Object_NearYou" ID="{7F85A3C5-8ACC-4223-A630-1245B30B95CB}" ShortID="754432631">
+									<PropertyList>
+										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+										<Property Name="IsStreamingEnabled" Type="bool">
+											<ValueList>
+												<Value>True</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{357AE3CE-76BC-4827-8D41-3BF84E43E73B}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{74637C57-809A-422C-96D4-723DBA55311B}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_Object_NearYou" ID="{C8435396-52FE-42E7-BC1E-D9EDBE584A07}">
+											<Language>SFX</Language>
+											<AudioFile>SFX_Object_NearYou.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="331433389"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_Object_NearYou" ID="{C8435396-52FE-42E7-BC1E-D9EDBE584A07}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</Folder>
+					</ChildrenList>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

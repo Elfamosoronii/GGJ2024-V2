@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4D2CD1F2-55AB-4AA0-947B-3256A46FB037}" SchemaVersion="110" RootDocumentID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" ParentDocumentID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}">
+	<Events>
+		<WorkUnit Name="MC" ID="{4D2CD1F2-55AB-4AA0-947B-3256A46FB037}" OwnerID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" PersistMode="Nested">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="16"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
+			<ChildrenList>
+				<Event Name="Play_MC_Footstep" ID="{D4A66995-D69D-416E-9142-DA2C4658AE8A}">
+					<ChildrenList>
+						<Action Name="" ID="{1CBA3BF6-227F-40F1-AE5E-BE033A6DA8B7}" ShortID="423399618">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Cloth_Movement" ID="{9AF0CCB8-8F63-4644-A2D0-6A3E4BB825A4}" WorkUnitID="{E53AC6F3-495A-48F7-9A38-2742DE537D8A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{FFC8BD5C-0209-4AC8-A817-DF78728CFF25}" ShortID="1053397725">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{D1FA1B60-6062-46BB-A857-242D6ACCDFFA}" WorkUnitID="{E53AC6F3-495A-48F7-9A38-2742DE537D8A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MC_Die" ID="{18E0E2BE-41AE-44E8-A916-A7D0B3F75BDB}">
+					<ChildrenList>
+						<Action Name="" ID="{781E1897-32D7-4B47-8A85-EC2F309B7ED4}" ShortID="80890364">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MC_Vo_Die-001" ID="{637804BD-B113-4218-886A-A7A2F2B0667A}" WorkUnitID="{E53AC6F3-495A-48F7-9A38-2742DE537D8A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_MC_Grab" ID="{B9C2C5FA-2BB3-4E85-B521-12176E0585CF}">
+					<ChildrenList>
+						<Action Name="" ID="{385219F5-68B2-4E08-AA80-04C9FDE936AF}" ShortID="396218874">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Grab" ID="{41D61123-E513-4F82-82C4-B861B39E97E2}" WorkUnitID="{E53AC6F3-495A-48F7-9A38-2742DE537D8A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -3,9 +3,17 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{BEEA27C0-D6E7-4023-B5E0-328D711276B2}">
 			<PropertyList>
+				<Property Name="Event Action List\{183C9EBE-2822-4CB0-8DCF-E3B486288070}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{18E0E2BE-41AE-44E8-A916-A7D0B3F75BDB}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{4CA48557-9BDE-4314-BF62-8BCB2EE6C6C0}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{8BFDCC8E-5896-4689-B124-EF440B0011C8}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{9030FDE5-6622-4D48-8F0D-2C7F976C9F75}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{B9C2C5FA-2BB3-4E85-B521-12176E0585CF}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{BA37AEAC-9666-4B89-9AAD-87C7179FD90B}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{BEEA2B8D-EB9A-44AA-A5BB-F34A2683898A}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{C29EC661-AE72-4D0C-A605-98CAD9AD26B2}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{D4A66995-D69D-416E-9142-DA2C4658AE8A}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{E5427312-953F-4866-9AC1-24C9F50EA292}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="EventView\FilterMode2" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
@@ -25,6 +33,7 @@
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value=""/>
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value=""/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
+				<Property Name="LoudnessMeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
 				<Property Name="MeterView\MeterMode1Viewpoint0" Type="int32" Value="1"/>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C46F9480-4D07-42C0-9E84-E2888AC9BE42}" SchemaVersion="110" RootDocumentID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" ParentDocumentID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}">
+	<Events>
+		<WorkUnit Name="NPC" ID="{C46F9480-4D07-42C0-9E84-E2888AC9BE42}" OwnerID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" PersistMode="Nested">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="12"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
+			<ChildrenList>
+				<Event Name="Play_NPC_Laugh" ID="{8BFDCC8E-5896-4689-B124-EF440B0011C8}">
+					<ChildrenList>
+						<Action Name="" ID="{75CB49FF-B6A2-4BFD-9265-C48640C07164}" ShortID="714090096">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="NPC_LAUGH" ID="{CE4BFE13-FB95-4998-90FA-14CCFB969BAF}" WorkUnitID="{7E433894-879C-44C3-8E0A-C74782AFA7DE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

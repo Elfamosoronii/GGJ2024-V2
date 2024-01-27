@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7E433894-879C-44C3-8E0A-C74782AFA7DE}" SchemaVersion="110" RootDocumentID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}" ParentDocumentID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}">
+	<AudioObjects>
+		<WorkUnit Name="NPC" ID="{7E433894-879C-44C3-8E0A-C74782AFA7DE}" OwnerID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}" PersistMode="Nested">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="11"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
+			<ChildrenList>
+				<ActorMixer Name="NPC_AM" ID="{547FF55E-B08B-4124-802F-113D88F89453}" ShortID="990169214">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{357AE3CE-76BC-4827-8D41-3BF84E43E73B}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="NPC" ID="{60BF65FB-6EC9-44C9-BDFD-A23B8C25206C}" WorkUnitID="{74637C57-809A-422C-96D4-723DBA55311B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="NPC_LAUGH" ID="{CE4BFE13-FB95-4998-90FA-14CCFB969BAF}" ShortID="463287748">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-2</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{357AE3CE-76BC-4827-8D41-3BF84E43E73B}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{74637C57-809A-422C-96D4-723DBA55311B}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="NPC_LAUGH" ID="{EE00CAE8-63BC-4038-89F0-C4BE786EBB5D}">
+									<Language>SFX</Language>
+									<AudioFile>NPC_LAUGH.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="151578874"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="NPC_LAUGH" ID="{EE00CAE8-63BC-4038-89F0-C4BE786EBB5D}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

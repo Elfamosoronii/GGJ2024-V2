@@ -1,0 +1,600 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "145",
+  "SoundBanks": [
+   {
+    "Id": "2151891189",
+    "Type": "User",
+    "GUID": "{E69E59C3-8CBF-48E9-8D61-4121161DB95D}",
+    "Language": "SFX",
+    "Hash": "{36CA799E-8001-7386-2F08-8793A68F2C37}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Game_SB",
+    "ShortName": "Game_SB",
+    "Path": "Game_SB.bnk",
+    "Media": [
+     {
+      "Id": "25492890",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Cry_03.wav",
+      "CachePath": "SFX/AMB_Distant_Cry_03_10C4C929.wem"
+     },
+     {
+      "Id": "47623735",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Cloth_Movement_06.wav",
+      "CachePath": "SFX/MC_Cloth_Movement_06_10C4C929.wem"
+     },
+     {
+      "Id": "48469247",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_12.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_12_10C4C929.wem"
+     },
+     {
+      "Id": "99442007",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Grab_01..wav",
+      "CachePath": "SFX/MC_Grab_01._10C4C929.wem"
+     },
+     {
+      "Id": "103943513",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Scream_06.wav",
+      "CachePath": "SFX/AMB_Distant_Scream_06_10C4C929.wem"
+     },
+     {
+      "Id": "109493910",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_06.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_06_10C4C929.wem"
+     },
+     {
+      "Id": "127696096",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Cloth_Movement_05.wav",
+      "CachePath": "SFX/MC_Cloth_Movement_05_10C4C929.wem"
+     },
+     {
+      "Id": "132210207",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Cry_01.wav",
+      "CachePath": "SFX/AMB_Distant_Cry_01_10C4C929.wem"
+     },
+     {
+      "Id": "146476595",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_Object_Founded.wav",
+      "CachePath": "SFX/SFX_Object_Founded_10C4C929.wem"
+     },
+     {
+      "Id": "151578874",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "NPC_LAUGH.wav",
+      "CachePath": "SFX/NPC_LAUGH_10C4C929.wem"
+     },
+     {
+      "Id": "238269691",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Cloth_Movement_03.wav",
+      "CachePath": "SFX/MC_Cloth_Movement_03_10C4C929.wem"
+     },
+     {
+      "Id": "249002668",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Scream_03.wav",
+      "CachePath": "SFX/AMB_Distant_Scream_03_10C4C929.wem"
+     },
+     {
+      "Id": "251583862",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Grab_02.wav",
+      "CachePath": "SFX/MC_Grab_02_10C4C929.wem"
+     },
+     {
+      "Id": "317097530",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Cloth_Movement_10.wav",
+      "CachePath": "SFX/MC_Cloth_Movement_10_10C4C929.wem"
+     },
+     {
+      "Id": "318291833",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_01.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_01_10C4C929.wem"
+     },
+     {
+      "Id": "320399697",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_04.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_04_10C4C929.wem"
+     },
+     {
+      "Id": "329206138",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Grab_05.wav",
+      "CachePath": "SFX/MC_Grab_05_10C4C929.wem"
+     },
+     {
+      "Id": "331433389",
+      "Language": "SFX",
+      "Streaming": "true",
+      "Location": "Loose",
+      "ShortName": "SFX_Object_NearYou.wav",
+      "Path": "Media/331433389.wem",
+      "CachePath": "SFX/SFX_Object_NearYou_D79FB2B7.wem"
+     },
+     {
+      "Id": "385140390",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_09.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_09_10C4C929.wem"
+     },
+     {
+      "Id": "439576151",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Vo_Die-001.wav",
+      "CachePath": "SFX/MC_Vo_Die-001_10C4C929.wem"
+     },
+     {
+      "Id": "442899724",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_07.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_07_10C4C929.wem"
+     },
+     {
+      "Id": "449076271",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Scream_02.wav",
+      "CachePath": "SFX/AMB_Distant_Scream_02_10C4C929.wem"
+     },
+     {
+      "Id": "500423147",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Cloth_Movement_01.wav",
+      "CachePath": "SFX/MC_Cloth_Movement_01_10C4C929.wem"
+     },
+     {
+      "Id": "522126974",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_03.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_03_10C4C929.wem"
+     },
+     {
+      "Id": "527882518",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Drone.wav",
+      "CachePath": "SFX/Drone_D79FB2B7.wem"
+     },
+     {
+      "Id": "549371856",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Cloth_Movement_08.wav",
+      "CachePath": "SFX/MC_Cloth_Movement_08_10C4C929.wem"
+     },
+     {
+      "Id": "598482440",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_08.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_08_10C4C929.wem"
+     },
+     {
+      "Id": "627809040",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Cry_02.wav",
+      "CachePath": "SFX/AMB_Distant_Cry_02_10C4C929.wem"
+     },
+     {
+      "Id": "631097772",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Scream_04.wav",
+      "CachePath": "SFX/AMB_Distant_Scream_04_10C4C929.wem"
+     },
+     {
+      "Id": "632463488",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Cloth_Movement_09.wav",
+      "CachePath": "SFX/MC_Cloth_Movement_09_10C4C929.wem"
+     },
+     {
+      "Id": "688429726",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_02.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_02_10C4C929.wem"
+     },
+     {
+      "Id": "695329697",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Scream_01.wav",
+      "CachePath": "SFX/AMB_Distant_Scream_01_10C4C929.wem"
+     },
+     {
+      "Id": "703376735",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Cloth_Movement_07.wav",
+      "CachePath": "SFX/MC_Cloth_Movement_07_10C4C929.wem"
+     },
+     {
+      "Id": "732608624",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Grab_04.wav",
+      "CachePath": "SFX/MC_Grab_04_10C4C929.wem"
+     },
+     {
+      "Id": "748019156",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Scream_07.wav",
+      "CachePath": "SFX/AMB_Distant_Scream_07_10C4C929.wem"
+     },
+     {
+      "Id": "812292401",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Scream_05.wav",
+      "CachePath": "SFX/AMB_Distant_Scream_05_10C4C929.wem"
+     },
+     {
+      "Id": "834685696",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_05.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_05_10C4C929.wem"
+     },
+     {
+      "Id": "848435519",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_11.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_11_10C4C929.wem"
+     },
+     {
+      "Id": "858110635",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Cloth_Movement_04.wav",
+      "CachePath": "SFX/MC_Cloth_Movement_04_10C4C929.wem"
+     },
+     {
+      "Id": "984292458",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Cloth_Movement_02.wav",
+      "CachePath": "SFX/MC_Cloth_Movement_02_10C4C929.wem"
+     },
+     {
+      "Id": "1048291974",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AMB_Distant_Scream_08.wav",
+      "CachePath": "SFX/AMB_Distant_Scream_08_10C4C929.wem"
+     },
+     {
+      "Id": "1063141180",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Grab_03.wav",
+      "CachePath": "SFX/MC_Grab_03_10C4C929.wem"
+     },
+     {
+      "Id": "1064701850",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MC_Footstep_Concret_10.wav",
+      "CachePath": "SFX/MC_Footstep_Concret_10_10C4C929.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2029761780",
+      "Name": "Play_Main_Ambiance",
+      "ObjectPath": "\\Events\\Default Work Unit\\AMB\\Play_Main_Ambiance",
+      "GUID": "{BA37AEAC-9666-4B89-9AAD-87C7179FD90B}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "25492890"
+       },
+       {
+        "Id": "103943513"
+       },
+       {
+        "Id": "132210207"
+       },
+       {
+        "Id": "249002668"
+       },
+       {
+        "Id": "449076271"
+       },
+       {
+        "Id": "527882518"
+       },
+       {
+        "Id": "627809040"
+       },
+       {
+        "Id": "631097772"
+       },
+       {
+        "Id": "695329697"
+       },
+       {
+        "Id": "748019156"
+       },
+       {
+        "Id": "812292401"
+       },
+       {
+        "Id": "1048291974"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "687214377",
+        "Name": "REV_AMB",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Ambiance\\REV_AMB",
+        "GUID": "{AB3AFE83-FAE2-4E32-A1F9-2717BAD7897F}"
+       }
+      ]
+     },
+     {
+      "Id": "1201778153",
+      "Name": "Play_MC_Die",
+      "ObjectPath": "\\Events\\Default Work Unit\\MC\\Play_MC_Die",
+      "GUID": "{18E0E2BE-41AE-44E8-A916-A7D0B3F75BDB}",
+      "DurationType": "OneShot",
+      "DurationMin": "4.525578",
+      "DurationMax": "4.525578",
+      "MediaRefs": [
+       {
+        "Id": "439576151"
+       }
+      ]
+     },
+     {
+      "Id": "1759907691",
+      "Name": "Play_MC_Footstep",
+      "ObjectPath": "\\Events\\Default Work Unit\\MC\\Play_MC_Footstep",
+      "GUID": "{D4A66995-D69D-416E-9142-DA2C4658AE8A}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.42744115",
+      "DurationMax": "1.1471941",
+      "MediaRefs": [
+       {
+        "Id": "47623735"
+       },
+       {
+        "Id": "48469247"
+       },
+       {
+        "Id": "109493910"
+       },
+       {
+        "Id": "127696096"
+       },
+       {
+        "Id": "238269691"
+       },
+       {
+        "Id": "317097530"
+       },
+       {
+        "Id": "318291833"
+       },
+       {
+        "Id": "320399697"
+       },
+       {
+        "Id": "385140390"
+       },
+       {
+        "Id": "442899724"
+       },
+       {
+        "Id": "500423147"
+       },
+       {
+        "Id": "522126974"
+       },
+       {
+        "Id": "549371856"
+       },
+       {
+        "Id": "598482440"
+       },
+       {
+        "Id": "632463488"
+       },
+       {
+        "Id": "688429726"
+       },
+       {
+        "Id": "703376735"
+       },
+       {
+        "Id": "834685696"
+       },
+       {
+        "Id": "848435519"
+       },
+       {
+        "Id": "858110635"
+       },
+       {
+        "Id": "984292458"
+       },
+       {
+        "Id": "1064701850"
+       }
+      ]
+     },
+     {
+      "Id": "1954933515",
+      "Name": "Play_MC_Grab",
+      "ObjectPath": "\\Events\\Default Work Unit\\MC\\Play_MC_Grab",
+      "GUID": "{B9C2C5FA-2BB3-4E85-B521-12176E0585CF}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.2",
+      "DurationMax": "0.33333334",
+      "MediaRefs": [
+       {
+        "Id": "99442007"
+       },
+       {
+        "Id": "251583862"
+       },
+       {
+        "Id": "329206138"
+       },
+       {
+        "Id": "732608624"
+       },
+       {
+        "Id": "1063141180"
+       }
+      ]
+     },
+     {
+      "Id": "2926507265",
+      "Name": "Play_NPC_Laugh",
+      "ObjectPath": "\\Events\\Default Work Unit\\NPC\\Play_NPC_Laugh",
+      "GUID": "{8BFDCC8E-5896-4689-B124-EF440B0011C8}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.1823583",
+      "DurationMax": "3.1823583",
+      "MediaRefs": [
+       {
+        "Id": "151578874"
+       }
+      ]
+     },
+     {
+      "Id": "3433653717",
+      "Name": "Play_SFX_Object_Founded",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Play_SFX_Object_Founded",
+      "GUID": "{E5427312-953F-4866-9AC1-24C9F50EA292}",
+      "DurationType": "OneShot",
+      "DurationMin": "10",
+      "DurationMax": "10",
+      "MediaRefs": [
+       {
+        "Id": "146476595"
+       }
+      ]
+     },
+     {
+      "Id": "4278079733",
+      "Name": "Play_SFX_Object_NearYou",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Play_SFX_Object_NearYou",
+      "GUID": "{C29EC661-AE72-4D0C-A605-98CAD9AD26B2}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "331433389"
+       }
+      ]
+     },
+     {
+      "Id": "55798402",
+      "Name": "Stop_Main_Ambiance",
+      "ObjectPath": "\\Events\\Default Work Unit\\AMB\\Stop_Main_Ambiance",
+      "GUID": "{183C9EBE-2822-4CB0-8DCF-E3B486288070}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "4066943759",
+      "Name": "Stop_SFX_Object_NearYou",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Stop_SFX_Object_NearYou",
+      "GUID": "{4CA48557-9BDE-4314-BF62-8BCB2EE6C6C0}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C972541C-406F-52DC-FA50-DB522999DEA4}"
+ }
+}
