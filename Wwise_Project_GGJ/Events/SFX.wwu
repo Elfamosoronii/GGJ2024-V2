@@ -70,6 +70,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Menu_Bouton_Click" ID="{971ECEAD-80D3-45F8-B443-86809FF5C2A4}">
+					<ChildrenList>
+						<Action Name="" ID="{DB393A85-94F1-4358-86E0-5F29D1FD0883}" ShortID="404486640">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Menu Click" ID="{D132E52D-5DB0-4BAA-910A-CBDE0F614433}" WorkUnitID="{54EECDD9-C549-4D0B-8305-F3945EFDCD28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Menu_Bouton_Back" ID="{B2781964-36A2-412D-8470-1D9AAA2CB6C7}">
+					<ChildrenList>
+						<Action Name="" ID="{EB28F7E9-908C-40FF-B88F-2CC61FC0D012}" ShortID="56197726">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SFX_Menu_Back" ID="{47B2B376-4F02-4E18-8B2A-67FF64581B0E}" WorkUnitID="{54EECDD9-C549-4D0B-8305-F3945EFDCD28}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

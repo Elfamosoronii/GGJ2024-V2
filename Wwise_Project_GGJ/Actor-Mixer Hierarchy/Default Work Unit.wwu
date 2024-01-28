@@ -7,6 +7,7 @@
 				<WorkUnit Name="MC_WU" ID="{E53AC6F3-495A-48F7-9A38-2742DE537D8A}" PersistMode="Reference"/>
 				<WorkUnit Name="NPC" ID="{7E433894-879C-44C3-8E0A-C74782AFA7DE}" PersistMode="Reference"/>
 				<WorkUnit Name="SFX" ID="{54EECDD9-C549-4D0B-8305-F3945EFDCD28}" PersistMode="Reference"/>
+				<WorkUnit Name="MUSIC" ID="{4F4C5C77-8717-4156-AC18-424F12CE65A6}" PersistMode="Reference"/>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

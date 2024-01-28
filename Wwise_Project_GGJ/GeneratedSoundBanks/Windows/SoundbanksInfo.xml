@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{0BAD36E6-BBB1-D5B0-5F48-29EB16C461CC}">
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{B47890DA-BD5C-0167-14C0-F0E42F5AC90A}">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
@@ -33,6 +33,7 @@
 				<Bus Id="2981377429" Name="Ambiance" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambiance" GUID="{FD0F6CF2-CBE2-4598-A31D-C859BD3691B5}"/>
 				<Bus Id="3170124113" Name="Voice" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambiance\Voice" GUID="{8C59896C-47F3-40D6-A60F-056EFEF2F36E}"/>
 				<Bus Id="3803692087" Name="Master Audio Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus" GUID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+				<Bus Id="3991942870" Name="Music" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Music" GUID="{0F8F5165-7D59-4343-B0D6-EC4655FEE160}"/>
 			</Busses>
 			<AuxBusses>
 				<AuxBus Id="687214377" Name="REV_AMB" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambiance\REV_AMB" GUID="{AB3AFE83-FAE2-4E32-A1F9-2717BAD7897F}">
@@ -170,7 +171,7 @@
 				</AcousticTexture>
 			</AcousticTextures>
 		</SoundBank>
-		<SoundBank Id="2151891189" Type="User" GUID="{E69E59C3-8CBF-48E9-8D61-4121161DB95D}" Language="SFX" Hash="{36CA799E-8001-7386-2F08-8793A68F2C37}">
+		<SoundBank Id="2151891189" Type="User" GUID="{E69E59C3-8CBF-48E9-8D61-4121161DB95D}" Language="SFX" Hash="{708D8870-E451-8BFF-D039-0895F516E1A2}">
 			<ObjectPath>\SoundBanks\Default Work Unit\Game_SB</ObjectPath>
 			<ShortName>Game_SB</ShortName>
 			<Path>Game_SB.bnk</Path>
@@ -198,6 +199,10 @@
 				<File Id="109493910" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>MC_Footstep_Concret_06.wav</ShortName>
 					<CachePath>SFX/MC_Footstep_Concret_06_10C4C929.wem</CachePath>
+				</File>
+				<File Id="117495935" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MusiqueMenu.wav</ShortName>
+					<CachePath>SFX/MusiqueMenu_D79FB2B7.wem</CachePath>
 				</File>
 				<File Id="127696096" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>MC_Cloth_Movement_05.wav</ShortName>
@@ -264,6 +269,10 @@
 					<ShortName>AMB_Distant_Scream_02.wav</ShortName>
 					<CachePath>SFX/AMB_Distant_Scream_02_10C4C929.wem</CachePath>
 				</File>
+				<File Id="483676391" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SFX_Menu_Back.wav</ShortName>
+					<CachePath>SFX/SFX_Menu_Back_10C4C929.wem</CachePath>
+				</File>
 				<File Id="500423147" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>MC_Cloth_Movement_01.wav</ShortName>
 					<CachePath>SFX/MC_Cloth_Movement_01_10C4C929.wem</CachePath>
@@ -283,6 +292,10 @@
 				<File Id="598482440" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>MC_Footstep_Concret_08.wav</ShortName>
 					<CachePath>SFX/MC_Footstep_Concret_08_10C4C929.wem</CachePath>
+				</File>
+				<File Id="602363128" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SFX_Menu_Click_03.wav</ShortName>
+					<CachePath>SFX/SFX_Menu_Click_03_10C4C929.wem</CachePath>
 				</File>
 				<File Id="627809040" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>AMB_Distant_Cry_02.wav</ShortName>
@@ -315,6 +328,14 @@
 				<File Id="748019156" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>AMB_Distant_Scream_07.wav</ShortName>
 					<CachePath>SFX/AMB_Distant_Scream_07_10C4C929.wem</CachePath>
+				</File>
+				<File Id="773027373" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SFX_Menu_Click_02.wav</ShortName>
+					<CachePath>SFX/SFX_Menu_Click_02_10C4C929.wem</CachePath>
+				</File>
+				<File Id="775284164" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SFX_Menu_Click_01.wav</ShortName>
+					<CachePath>SFX/SFX_Menu_Click_01_10C4C929.wem</CachePath>
 				</File>
 				<File Id="812292401" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>AMB_Distant_Scream_05.wav</ShortName>
@@ -409,6 +430,23 @@
 						<MediaRef Id="1063141180"/>
 					</MediaRefs>
 				</Event>
+				<Event Id="3821736999" Name="Play_Menu_Bouton_Back" ObjectPath="\Events\Default Work Unit\SFX\Play_Menu_Bouton_Back" GUID="{B2781964-36A2-412D-8470-1D9AAA2CB6C7}" DurationType="OneShot" DurationMin="0.074217685" DurationMax="0.074217685">
+					<MediaRefs>
+						<MediaRef Id="483676391"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3393587106" Name="Play_Menu_Bouton_Click" ObjectPath="\Events\Default Work Unit\SFX\Play_Menu_Bouton_Click" GUID="{971ECEAD-80D3-45F8-B443-86809FF5C2A4}" DurationType="OneShot" DurationMin="0.08498866" DurationMax="0.14836735">
+					<MediaRefs>
+						<MediaRef Id="602363128"/>
+						<MediaRef Id="773027373"/>
+						<MediaRef Id="775284164"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1699343283" Name="Play_Music_Menu" ObjectPath="\Events\Default Work Unit\MUSIC\Play_Music_Menu" GUID="{169EA344-C503-4073-8327-06E247968A47}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="117495935"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="2926507265" Name="Play_NPC_Laugh" ObjectPath="\Events\Default Work Unit\NPC\Play_NPC_Laugh" GUID="{8BFDCC8E-5896-4689-B124-EF440B0011C8}" DurationType="OneShot" DurationMin="3.1823583" DurationMax="3.1823583">
 					<MediaRefs>
 						<MediaRef Id="151578874"/>
@@ -425,9 +463,10 @@
 					</MediaRefs>
 				</Event>
 				<Event Id="55798402" Name="Stop_Main_Ambiance" ObjectPath="\Events\Default Work Unit\AMB\Stop_Main_Ambiance" GUID="{183C9EBE-2822-4CB0-8DCF-E3B486288070}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="106912753" Name="Stop_Music_Menu" ObjectPath="\Events\Default Work Unit\MUSIC\Stop_Music_Menu" GUID="{F40B7BC9-E861-4DB7-A087-E4AE159C74E1}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
 				<Event Id="4066943759" Name="Stop_SFX_Object_NearYou" ObjectPath="\Events\Default Work Unit\SFX\Stop_SFX_Object_NearYou" GUID="{4CA48557-9BDE-4314-BF62-8BCB2EE6C6C0}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
 			</Events>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{FE7B033B-F5A3-91AC-CD5B-84BC46749F94}</FileHash>
+	<FileHash>{FCD2BA6D-E683-BE2B-7EC4-5EEECAAAE20D}</FileHash>
 </SoundBanksInfo>
