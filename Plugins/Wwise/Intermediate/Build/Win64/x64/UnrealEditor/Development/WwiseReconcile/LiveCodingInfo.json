@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WwiseReconcile.cpp.obj": [
+			"WwiseReconcile.init.gen.cpp.obj",
+			"WwiseReconcileCommandlet.gen.cpp.obj",
+			"Reconcile.cpp.obj",
+			"WwiseReconcileCommandlet.cpp.obj",
+			"WwiseReconcileModule.cpp.obj"
+		]
+	}
+}

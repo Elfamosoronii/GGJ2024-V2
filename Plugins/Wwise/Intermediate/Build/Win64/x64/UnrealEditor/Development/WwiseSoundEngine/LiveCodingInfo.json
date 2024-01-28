@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WwiseSoundEngine.cpp.obj": [
+			"AkUnrealHelper.gen.cpp.obj",
+			"WwiseSoundEngine.init.gen.cpp.obj",
+			"AkUnrealHelper.cpp.obj",
+			"Global.cpp.obj",
+			"NamedEvents.cpp.obj",
+			"SoundEngine.cpp.obj",
+			"WwiseSoundEngineModule.cpp.obj",
+			"WAAPI_Null.cpp.obj",
+			"WwiseCommAPI_Null.cpp.obj",
+			"WwiseMemoryMgrAPI_Null.cpp.obj",
+			"WwiseMonitorAPI_Null.cpp.obj",
+			"WwiseMusicEngineAPI_Null.cpp.obj",
+			"WwiseSoundEngineAPI_Null.cpp.obj",
+			"WwiseSpatialAudioAPI_Null.cpp.obj",
+			"WwiseStreamMgrAPI_Null.cpp.obj",
+			"DefineNullBridges.cpp.obj",
+			"SoundEngine_Null.cpp.obj",
+			"WwiseSoundEngine_Null.cpp.obj"
+		]
+	}
+}

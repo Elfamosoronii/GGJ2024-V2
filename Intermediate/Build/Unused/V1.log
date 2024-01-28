@@ -3,10 +3,12 @@
   Log file: C:\Users\roni.poggioli\AppData\Local\UnrealBuildTool\Log.txt
   Using 'git status' to determine working set for adaptive non-unity build (E:\fcgfg\GGJ2024-V2).
   Creating makefile for V1Editor (no existing makefile)
+  Using Wwise SoundEngine 2022_1 interface
+  Wwise SoundEngine is disabled: Using the null SoundEngine.
   Parsing headers for V1Editor
     Running Internal UnrealHeaderTool E:\fcgfg\GGJ2024-V2\V1.uproject E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\V1Editor\Development\V1Editor.uhtmanifest -WarningsAsErrors -installed
-  Total of 4 written
-  Reflection code generated for V1Editor in 1.7245064 seconds
+  Total of 261 written
+  Reflection code generated for V1Editor in 1.611149 seconds
   Building V1Editor...
   Using Visual Studio 2022 14.34.31948 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   [Upgrade]
@@ -17,17 +19,89 @@
   [Upgrade]
   Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
     Executing up to 4 processes, one per physical core
-  Building 9 actions with 4 processes...
-  [1/9] Resource Default.rc2
-  [2/9] Compile [x64] SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp
-  [3/9] Compile [x64] V1.cpp
-  [4/9] Compile [x64] V1.init.gen.cpp
-  [5/9] Compile [x64] MyWorldSettings.cpp
-  [6/9] Compile [x64] MyWorldSettings.gen.cpp
-  [7/9] Link [x64] UnrealEditor-V1.lib
-     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\UnrealEditor-V1.lib et de l'objet E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\UnrealEditor-V1.exp
-  [8/9] Link [x64] UnrealEditor-V1.dll
-     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\UnrealEditor-V1.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\UnrealEditor-V1.suppressed.exp
-  [9/9] WriteMetadata V1Editor.target
-  Total time in Parallel executor: 43.60 seconds
-  Total execution time: 69.37 seconds
+    Requested 1.5 GB free memory per action, 5.08 GB available: limiting max parallel actions to 3
+  Building 58 actions with 3 processes...
+  [1/58] Compile [x64] Module.WwiseSoundEngine.cpp
+  [2/58] Resource Default.rc2
+  [3/58] Resource Default.rc2
+  [4/58] Compile [x64] Module.WwiseResourceLoader.cpp
+  [5/58] Compile [x64] Module.WwiseFileHandler.cpp
+  [6/58] Resource Default.rc2
+  [7/58] Compile [x64] Module.WwiseConcurrency.cpp
+  [8/58] Resource Default.rc2
+  [9/58] Resource Default.rc2
+  [10/58] Resource Default.rc2
+  [11/58] Resource Default.rc2
+  [12/58] Resource Default.rc2
+  [13/58] Resource Default.rc2
+  [14/58] Resource Default.rc2
+  [15/58] Resource Default.rc2
+  [16/58] Resource Default.rc2
+  [17/58] Link [x64] UnrealEditor-WwiseSoundEngine.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\UnrealEditor-WwiseSoundEngine.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\UnrealEditor-WwiseSoundEngine.exp
+  [18/58] Link [x64] UnrealEditor-WwiseSoundEngine.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\UnrealEditor-WwiseSoundEngine.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\UnrealEditor-WwiseSoundEngine.suppressed.exp
+  [19/58] Link [x64] UnrealEditor-WwiseResourceLoader.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceLoader\UnrealEditor-WwiseResourceLoader.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceLoader\UnrealEditor-WwiseResourceLoader.exp
+  [20/58] Link [x64] UnrealEditor-WwiseFileHandler.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\UnrealEditor-WwiseFileHandler.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\UnrealEditor-WwiseFileHandler.exp
+  [21/58] Link [x64] UnrealEditor-WwiseConcurrency.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseConcurrency\UnrealEditor-WwiseConcurrency.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseConcurrency\UnrealEditor-WwiseConcurrency.exp
+  [22/58] Link [x64] UnrealEditor-WwiseConcurrency.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseConcurrency\UnrealEditor-WwiseConcurrency.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseConcurrency\UnrealEditor-WwiseConcurrency.suppressed.exp
+  [23/58] Link [x64] UnrealEditor-WwiseResourceLoader.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceLoader\UnrealEditor-WwiseResourceLoader.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceLoader\UnrealEditor-WwiseResourceLoader.suppressed.exp
+  [24/58] Link [x64] UnrealEditor-WwiseFileHandler.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\UnrealEditor-WwiseFileHandler.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\UnrealEditor-WwiseFileHandler.suppressed.exp
+  [25/58] Compile [x64] Module.AkAudioMixer.cpp
+  [26/58] Link [x64] UnrealEditor-AkAudioMixer.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.exp
+  [27/58] Compile [x64] SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.cpp
+  [28/58] Compile [x64] Module.AkAudio.2_of_9.cpp
+  [29/58] Compile [x64] Module.AkAudio.6_of_9.cpp
+  [30/58] Compile [x64] Module.AkAudio.7_of_9.cpp
+  [31/58] Compile [x64] Module.AkAudio.8_of_9.cpp
+  [32/58] Compile [x64] Module.AkAudio.5_of_9.cpp
+  [33/58] Compile [x64] Module.AkAudio.3_of_9.cpp
+  [34/58] Compile [x64] Module.AkAudio.9_of_9.cpp
+  [35/58] Compile [x64] Module.AkAudio.1_of_9.cpp
+  [36/58] Compile [x64] Module.AkAudio.4_of_9.cpp
+  [37/58] Compile [x64] Module.WwiseProjectDatabase.cpp
+  [38/58] Compile [x64] Module.WwiseSimpleExternalSource.cpp
+  [39/58] Compile [x64] Module.WwiseResourceCooker.cpp
+  [40/58] Compile [x64] Module.WwiseReconcile.cpp
+  [41/58] Link [x64] UnrealEditor-AkAudio.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudio\UnrealEditor-AkAudio.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudio\UnrealEditor-AkAudio.exp
+  [42/58] Link [x64] UnrealEditor-WwiseProjectDatabase.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseProjectDatabase\UnrealEditor-WwiseProjectDatabase.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseProjectDatabase\UnrealEditor-WwiseProjectDatabase.exp
+  [43/58] Link [x64] UnrealEditor-WwiseProjectDatabase.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseProjectDatabase\UnrealEditor-WwiseProjectDatabase.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseProjectDatabase\UnrealEditor-WwiseProjectDatabase.suppressed.exp
+  [44/58] Link [x64] UnrealEditor-WwiseSimpleExternalSource.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSimpleExternalSource\UnrealEditor-WwiseSimpleExternalSource.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSimpleExternalSource\UnrealEditor-WwiseSimpleExternalSource.exp
+  [45/58] Link [x64] UnrealEditor-WwiseResourceCooker.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceCooker\UnrealEditor-WwiseResourceCooker.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceCooker\UnrealEditor-WwiseResourceCooker.exp
+  [46/58] Link [x64] UnrealEditor-WwiseReconcile.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\UnrealEditor-WwiseReconcile.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\UnrealEditor-WwiseReconcile.exp
+  [47/58] Link [x64] UnrealEditor-AkAudioMixer.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.suppressed.exp
+  [48/58] Link [x64] UnrealEditor-WwiseResourceCooker.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceCooker\UnrealEditor-WwiseResourceCooker.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceCooker\UnrealEditor-WwiseResourceCooker.suppressed.exp
+  [49/58] Link [x64] UnrealEditor-AkAudio.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudio\UnrealEditor-AkAudio.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudio\UnrealEditor-AkAudio.suppressed.exp
+  [50/58] Link [x64] UnrealEditor-WwiseSimpleExternalSource.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSimpleExternalSource\UnrealEditor-WwiseSimpleExternalSource.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSimpleExternalSource\UnrealEditor-WwiseSimpleExternalSource.suppressed.exp
+  [51/58] Compile [x64] Module.Wwise.cpp
+  [52/58] Link [x64] UnrealEditor-Wwise.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Wwise\UnrealEditor-Wwise.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Wwise\UnrealEditor-Wwise.exp
+  [53/58] Compile [x64] Module.AudiokineticTools.cpp
+  [54/58] Link [x64] UnrealEditor-AudiokineticTools.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudiokineticTools\UnrealEditor-AudiokineticTools.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudiokineticTools\UnrealEditor-AudiokineticTools.exp
+  [55/58] Link [x64] UnrealEditor-Wwise.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Wwise\UnrealEditor-Wwise.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Wwise\UnrealEditor-Wwise.suppressed.exp
+  [56/58] Link [x64] UnrealEditor-WwiseReconcile.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\UnrealEditor-WwiseReconcile.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\UnrealEditor-WwiseReconcile.suppressed.exp
+  [57/58] Link [x64] UnrealEditor-AudiokineticTools.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudiokineticTools\UnrealEditor-AudiokineticTools.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudiokineticTools\UnrealEditor-AudiokineticTools.suppressed.exp
+  [58/58] WriteMetadata V1Editor.target
+  Total time in Parallel executor: 160.29 seconds
+  Total execution time: 167.73 seconds
