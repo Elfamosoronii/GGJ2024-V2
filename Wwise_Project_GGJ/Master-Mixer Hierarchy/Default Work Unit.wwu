@@ -58,6 +58,12 @@
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
 							</PropertyList>
 						</Bus>
+						<Bus Name="Music" ID="{0F8F5165-7D59-4343-B0D6-EC4655FEE160}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="2"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Bus>
 					</ChildrenList>
 				</Bus>
 			</ChildrenList>

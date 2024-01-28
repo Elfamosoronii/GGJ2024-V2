@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{51D203DB-1354-4A65-BDBB-B2E9A896C916}" SchemaVersion="110" RootDocumentID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" ParentDocumentID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}">
+	<Events>
+		<WorkUnit Name="MUSIC" ID="{51D203DB-1354-4A65-BDBB-B2E9A896C916}" OwnerID="{4FC3784C-ADC6-450D-BA70-FA11BD0DD137}" PersistMode="Nested">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="1"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
+			<ChildrenList>
+				<Event Name="Play_Music_Menu" ID="{169EA344-C503-4073-8327-06E247968A47}">
+					<ChildrenList>
+						<Action Name="" ID="{1D094295-2ED0-4CCB-B32D-B8180228DC53}" ShortID="553627432">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusiqueMenu" ID="{2ADD0035-81DB-4627-B0D1-99EDC4F1CECF}" WorkUnitID="{4F4C5C77-8717-4156-AC18-424F12CE65A6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Music_Menu" ID="{F40B7BC9-E861-4DB7-A087-E4AE159C74E1}">
+					<ChildrenList>
+						<Action Name="" ID="{9AEB3845-0CE9-4C8D-9DF5-4C3021713083}" ShortID="550465734">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusiqueMenu" ID="{2ADD0035-81DB-4627-B0D1-99EDC4F1CECF}" WorkUnitID="{4F4C5C77-8717-4156-AC18-424F12CE65A6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

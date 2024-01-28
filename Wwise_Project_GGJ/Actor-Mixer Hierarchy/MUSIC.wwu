@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4F4C5C77-8717-4156-AC18-424F12CE65A6}" SchemaVersion="110" RootDocumentID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}" ParentDocumentID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}">
+	<AudioObjects>
+		<WorkUnit Name="MUSIC" ID="{4F4C5C77-8717-4156-AC18-424F12CE65A6}" OwnerID="{E7D8463E-967A-41D5-A77F-74BFE0798F38}" PersistMode="Nested">
+			<PropertyList>
+				<Property Name="Color" Type="int16" Value="2"/>
+				<Property Name="OverrideColor" Type="bool" Value="True"/>
+			</PropertyList>
+			<ChildrenList>
+				<Sound Name="MusiqueMenu" ID="{2ADD0035-81DB-4627-B0D1-99EDC4F1CECF}" ShortID="233832534">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-18</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{357AE3CE-76BC-4827-8D41-3BF84E43E73B}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Music" ID="{0F8F5165-7D59-4343-B0D6-EC4655FEE160}" WorkUnitID="{74637C57-809A-422C-96D4-723DBA55311B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="MusiqueMenu" ID="{5CC5C61B-6E99-4E79-8946-512B89E30C72}">
+							<Language>SFX</Language>
+							<AudioFile>MusiqueMenu.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="117495935"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="MusiqueMenu" ID="{5CC5C61B-6E99-4E79-8946-512B89E30C72}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

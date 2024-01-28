@@ -1,11 +1,15 @@
 Event	ID	Name			Wwise Object Path	Notes
 	55798402	Stop_Main_Ambiance			\Default Work Unit\AMB\Stop_Main_Ambiance	
+	106912753	Stop_Music_Menu			\Default Work Unit\MUSIC\Stop_Music_Menu	
 	1201778153	Play_MC_Die			\Default Work Unit\MC\Play_MC_Die	
+	1699343283	Play_Music_Menu			\Default Work Unit\MUSIC\Play_Music_Menu	
 	1759907691	Play_MC_Footstep			\Default Work Unit\MC\Play_MC_Footstep	
 	1954933515	Play_MC_Grab			\Default Work Unit\MC\Play_MC_Grab	
 	2029761780	Play_Main_Ambiance			\Default Work Unit\AMB\Play_Main_Ambiance	
 	2926507265	Play_NPC_Laugh			\Default Work Unit\NPC\Play_NPC_Laugh	
+	3393587106	Play_Menu_Bouton_Click			\Default Work Unit\SFX\Play_Menu_Bouton_Click	
 	3433653717	Play_SFX_Object_Founded			\Default Work Unit\SFX\Play_SFX_Object_Founded	
+	3821736999	Play_Menu_Bouton_Back			\Default Work Unit\SFX\Play_Menu_Bouton_Back	
 	4066943759	Stop_SFX_Object_NearYou			\Default Work Unit\SFX\Stop_SFX_Object_NearYou	
 	4278079733	Play_SFX_Object_NearYou			\Default Work Unit\SFX\Play_SFX_Object_NearYou	
 
@@ -16,6 +20,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	99442007	MC_Grab_01_	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Grab_01._10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Grab\MC_Grab_01_		53016
 	103943513	AMB_Distant_Scream_06	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\AMB_Distant_Scream_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB_WU\AMB\AMB_Distant_Cry\AMB_Distant_Scream_06		764496
 	109493910	MC_Footstep_Concret_06	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Footstep_Concret_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Footsteps\MC_Footstep_Concret_06		69540
+	117495935	MusiqueMenu	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MusiqueMenu_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MUSIC\MusiqueMenu		7082884
 	127696096	MC_Cloth_Movement_05	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Cloth_Movement_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Cloth_Movement\MC_Cloth_Movement_05		82416
 	132210207	AMB_Distant_Cry_01	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\AMB_Distant_Cry_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB_WU\AMB\AMB_Distant_Cry\AMB_Distant_Cry_01		1881696
 	146476595	SFX_Object_Founded	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\SFX_Object_Founded_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\SFX_AM\OBJECT\SFX_Object_Founded		1764096
@@ -31,11 +36,13 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	439576151	MC_Vo_Die-001	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Vo_Die-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\MC_Vo_Die-001		798408
 	442899724	MC_Footstep_Concret_07	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Footstep_Concret_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Footsteps\MC_Footstep_Concret_07		109140
 	449076271	AMB_Distant_Scream_02	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\AMB_Distant_Scream_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB_WU\AMB\AMB_Distant_Cry\AMB_Distant_Scream_02		940896
+	483676391	SFX_Menu_Back	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\SFX_Menu_Back_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\SFX_AM\Click\New Actor-Mixer\SFX_Menu_Back		13188
 	500423147	MC_Cloth_Movement_01	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Cloth_Movement_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Cloth_Movement\MC_Cloth_Movement_01		129456
 	522126974	MC_Footstep_Concret_03	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Footstep_Concret_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Footsteps\MC_Footstep_Concret_03		67880
 	527882518	Drone	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\Drone_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB_WU\AMB\Drone		15993696
 	549371856	MC_Cloth_Movement_08	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Cloth_Movement_08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Cloth_Movement\MC_Cloth_Movement_08		188256
 	598482440	MC_Footstep_Concret_08	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Footstep_Concret_08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Footsteps\MC_Footstep_Concret_08		91724
+	602363128	SFX_Menu_Click_03	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\SFX_Menu_Click_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\SFX_AM\Click\New Actor-Mixer\Menu Click\SFX_Menu_Click_03		15088
 	627809040	AMB_Distant_Cry_02	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\AMB_Distant_Cry_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB_WU\AMB\AMB_Distant_Cry\AMB_Distant_Cry_02		2293296
 	631097772	AMB_Distant_Scream_04	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\AMB_Distant_Scream_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB_WU\AMB\AMB_Distant_Cry\AMB_Distant_Scream_04		1058496
 	632463488	MC_Cloth_Movement_09	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Cloth_Movement_09_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Cloth_Movement\MC_Cloth_Movement_09		123576
@@ -44,6 +51,8 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	703376735	MC_Cloth_Movement_07	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Cloth_Movement_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Cloth_Movement\MC_Cloth_Movement_07		100056
 	732608624	MC_Grab_04	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Grab_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Grab\MC_Grab_04		53016
 	748019156	AMB_Distant_Scream_07	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\AMB_Distant_Scream_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB_WU\AMB\AMB_Distant_Cry\AMB_Distant_Scream_07		541056
+	773027373	SFX_Menu_Click_02	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\SFX_Menu_Click_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\SFX_AM\Click\New Actor-Mixer\Menu Click\SFX_Menu_Click_02		26268
+	775284164	SFX_Menu_Click_01	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\SFX_Menu_Click_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\SFX_AM\Click\New Actor-Mixer\Menu Click\SFX_Menu_Click_01		17736
 	812292401	AMB_Distant_Scream_05	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\AMB_Distant_Scream_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB_WU\AMB\AMB_Distant_Cry\AMB_Distant_Scream_05		1058496
 	834685696	MC_Footstep_Concret_05	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Footstep_Concret_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Footsteps\MC_Footstep_Concret_05		62564
 	848435519	MC_Footstep_Concret_11	C:\Users\thoma\OneDrive\Documents\Repo Git\GGJ2024-V2\Wwise_Project_GGJ\.cache\Windows\SFX\MC_Footstep_Concret_11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MC_WU\MC_AM\Footsteps\MC_Footstep_Concret_11		89464

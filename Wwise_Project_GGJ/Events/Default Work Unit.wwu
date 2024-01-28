@@ -37,6 +37,7 @@
 				<WorkUnit Name="MC" ID="{4D2CD1F2-55AB-4AA0-947B-3256A46FB037}" PersistMode="Reference"/>
 				<WorkUnit Name="NPC" ID="{C46F9480-4D07-42C0-9E84-E2888AC9BE42}" PersistMode="Reference"/>
 				<WorkUnit Name="SFX" ID="{8A5A1C57-CC2B-4824-9EA3-9B89391228CA}" PersistMode="Reference"/>
+				<WorkUnit Name="MUSIC" ID="{51D203DB-1354-4A65-BDBB-B2E9A896C916}" PersistMode="Reference"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

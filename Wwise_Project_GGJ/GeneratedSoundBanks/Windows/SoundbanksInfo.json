@@ -18,7 +18,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{0BAD36E6-BBB1-D5B0-5F48-29EB16C461CC}",
+    "Hash": "{B47890DA-BD5C-0167-14C0-F0E42F5AC90A}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -112,6 +112,12 @@
       "Name": "Master Audio Bus",
       "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
       "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+     },
+     {
+      "Id": "3991942870",
+      "Name": "Music",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Music",
+      "GUID": "{0F8F5165-7D59-4343-B0D6-EC4655FEE160}"
      }
     ],
     "AuxBusses": [
@@ -591,7 +597,7 @@
     "Type": "User",
     "GUID": "{E69E59C3-8CBF-48E9-8D61-4121161DB95D}",
     "Language": "SFX",
-    "Hash": "{36CA799E-8001-7386-2F08-8793A68F2C37}",
+    "Hash": "{708D8870-E451-8BFF-D039-0895F516E1A2}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Game_SB",
     "ShortName": "Game_SB",
     "Path": "Game_SB.bnk",
@@ -643,6 +649,14 @@
       "Location": "Memory",
       "ShortName": "MC_Footstep_Concret_06.wav",
       "CachePath": "SFX/MC_Footstep_Concret_06_10C4C929.wem"
+     },
+     {
+      "Id": "117495935",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MusiqueMenu.wav",
+      "CachePath": "SFX/MusiqueMenu_D79FB2B7.wem"
      },
      {
       "Id": "127696096",
@@ -774,6 +788,14 @@
       "CachePath": "SFX/AMB_Distant_Scream_02_10C4C929.wem"
      },
      {
+      "Id": "483676391",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_Menu_Back.wav",
+      "CachePath": "SFX/SFX_Menu_Back_10C4C929.wem"
+     },
+     {
       "Id": "500423147",
       "Language": "SFX",
       "Streaming": "false",
@@ -812,6 +834,14 @@
       "Location": "Memory",
       "ShortName": "MC_Footstep_Concret_08.wav",
       "CachePath": "SFX/MC_Footstep_Concret_08_10C4C929.wem"
+     },
+     {
+      "Id": "602363128",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_Menu_Click_03.wav",
+      "CachePath": "SFX/SFX_Menu_Click_03_10C4C929.wem"
      },
      {
       "Id": "627809040",
@@ -876,6 +906,22 @@
       "Location": "Memory",
       "ShortName": "AMB_Distant_Scream_07.wav",
       "CachePath": "SFX/AMB_Distant_Scream_07_10C4C929.wem"
+     },
+     {
+      "Id": "773027373",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_Menu_Click_02.wav",
+      "CachePath": "SFX/SFX_Menu_Click_02_10C4C929.wem"
+     },
+     {
+      "Id": "775284164",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SFX_Menu_Click_01.wav",
+      "CachePath": "SFX/SFX_Menu_Click_01_10C4C929.wem"
      },
      {
       "Id": "812292401",
@@ -1114,6 +1160,52 @@
       ]
      },
      {
+      "Id": "3821736999",
+      "Name": "Play_Menu_Bouton_Back",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Play_Menu_Bouton_Back",
+      "GUID": "{B2781964-36A2-412D-8470-1D9AAA2CB6C7}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.074217685",
+      "DurationMax": "0.074217685",
+      "MediaRefs": [
+       {
+        "Id": "483676391"
+       }
+      ]
+     },
+     {
+      "Id": "3393587106",
+      "Name": "Play_Menu_Bouton_Click",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Play_Menu_Bouton_Click",
+      "GUID": "{971ECEAD-80D3-45F8-B443-86809FF5C2A4}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.08498866",
+      "DurationMax": "0.14836735",
+      "MediaRefs": [
+       {
+        "Id": "602363128"
+       },
+       {
+        "Id": "773027373"
+       },
+       {
+        "Id": "775284164"
+       }
+      ]
+     },
+     {
+      "Id": "1699343283",
+      "Name": "Play_Music_Menu",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUSIC\\Play_Music_Menu",
+      "GUID": "{169EA344-C503-4073-8327-06E247968A47}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "117495935"
+       }
+      ]
+     },
+     {
       "Id": "2926507265",
       "Name": "Play_NPC_Laugh",
       "ObjectPath": "\\Events\\Default Work Unit\\NPC\\Play_NPC_Laugh",
@@ -1164,6 +1256,16 @@
       "DurationMax": "0"
      },
      {
+      "Id": "106912753",
+      "Name": "Stop_Music_Menu",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUSIC\\Stop_Music_Menu",
+      "GUID": "{F40B7BC9-E861-4DB7-A087-E4AE159C74E1}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
       "Id": "4066943759",
       "Name": "Stop_SFX_Object_NearYou",
       "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Stop_SFX_Object_NearYou",
@@ -1176,6 +1278,6 @@
     ]
    }
   ],
-  "FileHash": "{167FF9B6-CEBF-87EF-A48F-4289B3CF8018}"
+  "FileHash": "{E3848240-BDF8-E171-171C-21E5EBC965CE}"
  }
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="145">
 	<SoundBanks>
-		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{0BAD36E6-BBB1-D5B0-5F48-29EB16C461CC}">
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{B47890DA-BD5C-0167-14C0-F0E42F5AC90A}">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
@@ -25,6 +25,7 @@
 				<Bus Id="2981377429" Name="Ambiance" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambiance" GUID="{FD0F6CF2-CBE2-4598-A31D-C859BD3691B5}"/>
 				<Bus Id="3170124113" Name="Voice" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambiance\Voice" GUID="{8C59896C-47F3-40D6-A60F-056EFEF2F36E}"/>
 				<Bus Id="3803692087" Name="Master Audio Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus" GUID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+				<Bus Id="3991942870" Name="Music" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Music" GUID="{0F8F5165-7D59-4343-B0D6-EC4655FEE160}"/>
 			</Busses>
 			<AuxBusses>
 				<AuxBus Id="687214377" Name="REV_AMB" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambiance\REV_AMB" GUID="{AB3AFE83-FAE2-4E32-A1F9-2717BAD7897F}">
@@ -163,5 +164,5 @@
 			</AcousticTextures>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{8B814845-1092-6D91-4327-ADD42BC692D3}</FileHash>
+	<FileHash>{2FB85F57-0161-536E-7796-D03AD1FC6E33}</FileHash>
 </SoundBanksInfo>
