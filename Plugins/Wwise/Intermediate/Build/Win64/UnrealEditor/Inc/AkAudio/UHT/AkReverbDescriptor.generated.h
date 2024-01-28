@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define AKAUDIO_AkReverbDescriptor_generated_h
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_AkReverbDescriptor_h_37_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_AkReverbDescriptor_h_37_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkReverbDescriptor_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkReverbDescriptor>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_AkReverbDescriptor_h
+#define CURRENT_FILE_ID FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_AkReverbDescriptor_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

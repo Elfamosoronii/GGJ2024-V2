@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-AkAudioMixer.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
-"E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\Module.AkAudioMixer.cpp.obj"
-"E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\Default.rc2.res"
-/OUT:"E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.lib"
+"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\Module.AkAudioMixer.cpp.obj"
+"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\Default.rc2.res"
+/OUT:"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.lib"

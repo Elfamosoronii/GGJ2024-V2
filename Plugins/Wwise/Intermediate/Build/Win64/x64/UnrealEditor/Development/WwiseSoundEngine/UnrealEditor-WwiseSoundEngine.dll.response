@@ -33,9 +33,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
-"E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\Module.WwiseSoundEngine.cpp.obj"
-"E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\Default.rc2.res"
+"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\Module.WwiseSoundEngine.cpp.obj"
+"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -63,7 +63,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Binaries\Win64\UnrealEditor-WwiseSoundEngine.dll"
-/IMPLIB:"E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\UnrealEditor-WwiseSoundEngine.suppressed.lib"
-/PDB:"E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Binaries\Win64\UnrealEditor-WwiseSoundEngine.pdb"
+/OUT:"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Binaries\Win64\UnrealEditor-WwiseSoundEngine.dll"
+/IMPLIB:"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\UnrealEditor-WwiseSoundEngine.suppressed.lib"
+/PDB:"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Binaries\Win64\UnrealEditor-WwiseSoundEngine.pdb"
 /ignore:4078

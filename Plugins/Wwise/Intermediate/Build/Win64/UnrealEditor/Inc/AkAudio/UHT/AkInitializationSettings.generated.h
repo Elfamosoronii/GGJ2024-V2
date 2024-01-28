@@ -14,28 +14,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define AKAUDIO_AkInitializationSettings_generated_h
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_119_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_119_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkMainOutputSettings_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkMainOutputSettings>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_146_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_146_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkSpatialAudioSettings_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkSpatialAudioSettings>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_189_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_189_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkCommunicationSettings_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkCommunicationSettings>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_214_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_214_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkCommunicationSettingsWithSystemInitialization_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkCommunicationSettings Super;
@@ -43,7 +43,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkCommunicationSettin
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkCommunicationSettingsWithSystemInitialization>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_225_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_225_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkCommunicationSettingsWithCommSelection_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkCommunicationSettings Super;
@@ -51,14 +51,14 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkCommunicationSettin
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkCommunicationSettingsWithCommSelection>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_237_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_237_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkCommonInitializationSettings_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkCommonInitializationSettings>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_270_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_270_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkCommonInitializationSettingsWithSampleRate_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkCommonInitializationSettings Super;
@@ -66,14 +66,14 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkCommonInitializatio
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkCommonInitializationSettingsWithSampleRate>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_280_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_280_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkAdvancedInitializationSettings_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct();
 
 
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkAdvancedInitializationSettings>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_321_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h_321_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkAdvancedInitializationSettingsWithMultiCoreRendering_Statics; \
 	AKAUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkAdvancedInitializationSettings Super;
@@ -82,7 +82,7 @@ template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkAdvancedInitializat
 template<> AKAUDIO_API UScriptStruct* StaticStruct<struct FAkAdvancedInitializationSettingsWithMultiCoreRendering>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h
+#define CURRENT_FILE_ID FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_AkAudio_Classes_InitializationSettings_AkInitializationSettings_h
 
 
 #define FOREACH_ENUM_EAKPANNINGRULE(op) \

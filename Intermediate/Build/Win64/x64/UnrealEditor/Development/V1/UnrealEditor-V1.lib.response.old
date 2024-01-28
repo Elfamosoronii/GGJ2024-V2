@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-V1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\MyWorldSettings.gen.cpp.obj"
+"E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\V1.init.gen.cpp.obj"
+"E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\V1.cpp.obj"
+"E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\MyWorldSettings.cpp.obj"
+"E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\Default.rc2.res"
+/OUT:"E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\UnrealEditor-V1.lib"

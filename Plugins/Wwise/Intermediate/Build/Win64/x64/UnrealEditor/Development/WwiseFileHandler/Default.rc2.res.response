@@ -72,5 +72,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="First Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=V1
-/fo "E:\fcgfg\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\Default.rc2.res"
+/fo "C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

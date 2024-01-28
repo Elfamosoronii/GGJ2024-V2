@@ -14,21 +14,21 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define WWISESOUNDENGINE_AkUnrealHelper_generated_h
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_WwiseSoundEngine_Public_AkUnrealHelper_h_97_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_WwiseSoundEngine_Public_AkUnrealHelper_h_97_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkUInt64Wrapper_Statics; \
 	WWISESOUNDENGINE_API static class UScriptStruct* StaticStruct();
 
 
 template<> WWISESOUNDENGINE_API UScriptStruct* StaticStruct<struct FAkUInt64Wrapper>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_WwiseSoundEngine_Public_AkUnrealHelper_h_107_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_WwiseSoundEngine_Public_AkUnrealHelper_h_107_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkUInt32Wrapper_Statics; \
 	WWISESOUNDENGINE_API static class UScriptStruct* StaticStruct();
 
 
 template<> WWISESOUNDENGINE_API UScriptStruct* StaticStruct<struct FAkUInt32Wrapper>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_WwiseSoundEngine_Public_AkUnrealHelper_h_117_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_WwiseSoundEngine_Public_AkUnrealHelper_h_117_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkOutputDeviceID_Statics; \
 	WWISESOUNDENGINE_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkUInt64Wrapper Super;
@@ -36,7 +36,7 @@ template<> WWISESOUNDENGINE_API UScriptStruct* StaticStruct<struct FAkUInt32Wrap
 
 template<> WWISESOUNDENGINE_API UScriptStruct* StaticStruct<struct FAkOutputDeviceID>();
 
-#define FID_GGJ2024_V2_Plugins_Wwise_Source_WwiseSoundEngine_Public_AkUnrealHelper_h_123_GENERATED_BODY \
+#define FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_WwiseSoundEngine_Public_AkUnrealHelper_h_123_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAkUniqueID_Statics; \
 	WWISESOUNDENGINE_API static class UScriptStruct* StaticStruct(); \
 	typedef FAkUInt32Wrapper Super;
@@ -45,7 +45,7 @@ template<> WWISESOUNDENGINE_API UScriptStruct* StaticStruct<struct FAkOutputDevi
 template<> WWISESOUNDENGINE_API UScriptStruct* StaticStruct<struct FAkUniqueID>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_GGJ2024_V2_Plugins_Wwise_Source_WwiseSoundEngine_Public_AkUnrealHelper_h
+#define CURRENT_FILE_ID FID_Users_lenaig_bourlier_Documents_GitHub_GGJ2024_V2_Plugins_Wwise_Source_WwiseSoundEngine_Public_AkUnrealHelper_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
