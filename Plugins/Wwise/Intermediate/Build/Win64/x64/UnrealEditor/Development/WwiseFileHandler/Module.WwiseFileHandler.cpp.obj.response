@@ -1,6 +1,6 @@
-C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\Module.WwiseFileHandler.cpp
+C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\Module.WwiseFileHandler.cpp
 /I .
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseFileHandler\Private
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseFileHandler\Private
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I Runtime
@@ -273,15 +273,15 @@ C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Inc\WwiseFileHandler\UHT
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseFileHandler\Public
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseConcurrency\Public
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Inc\WwiseSoundEngine\UHT
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseSoundEngine_2022_1\Public
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\ThirdParty\include
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseSoundEngine_Null\Public
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseSoundEngine\Public
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Inc\WwiseFileHandler\UHT
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseFileHandler\Public
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseConcurrency\Public
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Inc\WwiseSoundEngine\UHT
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseSoundEngine_2022_1\Public
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\ThirdParty\include
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseSoundEngine_Null\Public
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Source\WwiseSoundEngine\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -291,12 +291,12 @@ C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\Definitions.WwiseFileHandler.h"
-/Yu"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\Module.WwiseFileHandler.cpp.obj"
-/sourceDependencies C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\Module.WwiseFileHandler.cpp.dep.json
+/FI"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\Definitions.WwiseFileHandler.h"
+/Yu"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\Module.WwiseFileHandler.cpp.obj"
+/sourceDependencies C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\Module.WwiseFileHandler.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

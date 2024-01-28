@@ -1,6 +1,6 @@
-C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Source\V1\V1.cpp
+C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Source\V1\V1.cpp
 /I .
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Source\V1\Private
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Source\V1\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
@@ -273,9 +273,9 @@ C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Source\V1\V1.cpp
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\UnrealEditor\Inc\V1\UHT
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Source
-/I C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Source\V1\Public
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\UnrealEditor\Inc\V1\UHT
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Source
+/I C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Source\V1\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -285,12 +285,12 @@ C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Source\V1\V1.cpp
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\Definitions.V1.h"
-/Yu"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\V1.cpp.obj"
-/sourceDependencies C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\V1.cpp.dep.json
+/FI"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\Definitions.V1.h"
+/Yu"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\V1.cpp.obj"
+/sourceDependencies C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\V1.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

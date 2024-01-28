@@ -1,4 +1,4 @@
-C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.cpp
+C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealEd\UHT
 /I Programs\UnrealLightmass\Public
@@ -286,10 +286,10 @@ C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x6
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/Yc"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.obj"
-/sourceDependencies C:\Users\lenaig.bourlier\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.dep.json
+/Yc"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.obj"
+/sourceDependencies C:\Users\nwar\OneDrive\Documents\GitHub\GGJ2024-V2\Intermediate\Build\Win64\x64\V1Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.dep.json
 /Zc:inline
 /nologo
 /Oi
