@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="110">
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Virtual Acoustics\Default Work Unit.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Triggers\Default Work Unit.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Switches\Default Work Unit.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\States\Default Work Unit.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\SoundBanks\Default Work Unit.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Queries\Factory Queries.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Queries\Default Work Unit.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Presets\Factory Spatial Audio.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Presets\Factory Reflect.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Presets\Default Work Unit.wwu" DateLow="1706436285" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Modulators\Default Work Unit.wwu" DateLow="1706436284" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Mixing Sessions\Default Work Unit.wwu" DateLow="1706436284" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Metadata\Default Work Unit.wwu" DateLow="1706436284" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1706436284" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1706436284" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Game Parameters\Factory Soundseed Air Game Syncs.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Game Parameters\Default Work Unit.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Game JAM.wproj" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Events\SFX.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Events\NPC.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Events\MUSIC.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Events\MC.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Events\Default Work Unit.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Events\AMB.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory Reflect.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory McDSP Effects.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory Mastering Suite.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory iZotope Filters.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory iZotope Dynamics.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory iZotope Delay.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory iZotope Box Modeler.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory Effects.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Factory Auro Headphone.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Effects\Default Work Unit.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Conversion Settings\Default Work Unit.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Control Surface Sessions\Default Work Unit.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Audio Devices\Default Work Unit.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Attenuations\Default Work Unit.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Actor-Mixer Hierarchy\SFX.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Actor-Mixer Hierarchy\NPC.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Actor-Mixer Hierarchy\MUSIC.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Actor-Mixer Hierarchy\MC_WU.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Actor-Mixer Hierarchy\Factory Soundseed Air Objects.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1706436283" DateHigh="0"/>
+	<ValidationCacheItem File="E:\fcgfg\GGJ2024-V2\Wwise_Project_GGJ\Actor-Mixer Hierarchy\AMB_WU.wwu" DateLow="1706436283" DateHigh="0"/>
+</ValidationCache>

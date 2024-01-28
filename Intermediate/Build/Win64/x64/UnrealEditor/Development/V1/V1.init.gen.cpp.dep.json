@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\fcgfg\\ggj2024-v2\\intermediate\\build\\win64\\unrealeditor\\inc\\v1\\uht\\v1.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\fcgfg\\ggj2024-v2\\intermediate\\build\\win64\\x64\\v1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\fcgfg\\ggj2024-v2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\v1\\definitions.v1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

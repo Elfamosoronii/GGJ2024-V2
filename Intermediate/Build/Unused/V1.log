@@ -1,0 +1,33 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" V1Editor Win64 Development -Project="E:\fcgfg\GGJ2024-V2\V1.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\roni.poggioli\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (E:\fcgfg\GGJ2024-V2).
+  Creating makefile for V1Editor (no existing makefile)
+  Parsing headers for V1Editor
+    Running Internal UnrealHeaderTool E:\fcgfg\GGJ2024-V2\V1.uproject E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\V1Editor\Development\V1Editor.uhtmanifest -WarningsAsErrors -installed
+  Total of 4 written
+  Reflection code generated for V1Editor in 1.7245064 seconds
+  Building V1Editor...
+  Using Visual Studio 2022 14.34.31948 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_0
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in V1Editor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
+    Executing up to 4 processes, one per physical core
+  Building 9 actions with 4 processes...
+  [1/9] Resource Default.rc2
+  [2/9] Compile [x64] SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp
+  [3/9] Compile [x64] V1.cpp
+  [4/9] Compile [x64] V1.init.gen.cpp
+  [5/9] Compile [x64] MyWorldSettings.cpp
+  [6/9] Compile [x64] MyWorldSettings.gen.cpp
+  [7/9] Link [x64] UnrealEditor-V1.lib
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\UnrealEditor-V1.lib et de l'objet E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\UnrealEditor-V1.exp
+  [8/9] Link [x64] UnrealEditor-V1.dll
+     Création de la bibliothèque E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\UnrealEditor-V1.suppressed.lib et de l'objet E:\fcgfg\GGJ2024-V2\Intermediate\Build\Win64\x64\UnrealEditor\Development\V1\UnrealEditor-V1.suppressed.exp
+  [9/9] WriteMetadata V1Editor.target
+  Total time in Parallel executor: 43.60 seconds
+  Total execution time: 69.37 seconds

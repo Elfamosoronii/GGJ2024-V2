@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "V1",
+			"Path": "E:\\fcgfg\\GGJ2024-V2\\Source\\V1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "V1Editor",
+			"Path": "E:\\fcgfg\\GGJ2024-V2\\Source\\V1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
